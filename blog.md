@@ -8,7 +8,7 @@ permalink: /blog/  # Wichtig: Legt die URL fest
 Hier sind alle meine Blogbeiträge:
 
 <ul>
-  {% for post in site._posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span>{{ post.date | date: "%d.%m.%Y" }}</span>
