@@ -4,6 +4,6 @@ title: Mein Blog
 ---
 # Willkommen auf meinem Blog!
 
-Hier findest du meine neuesten [Beiträge](/_posts/).
+Hier findest du meine neuesten [Beiträge](/blog/).
 
 
