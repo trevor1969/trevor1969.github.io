@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog-Übersicht
-permalink: /blog/
+permalink: /blog/  # Wichtig: Legt die URL fest
 ---
 # Blog-Übersicht
 
